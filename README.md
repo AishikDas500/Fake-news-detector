@@ -23,7 +23,7 @@ fake_news_detector/
 │   ├── generate_data.py     # Synthetic dataset (swap for real data)
 │   └── visualize.py         # Evaluation plots
 ├── data/
-│   └── news.csv             # Auto-generated dataset
+│   └── news.csv             # Auto-generated dataset (you get after you run)
 ├── results/
 │   ├── model_comparison.png
 │   ├── confusion_matrix.png
@@ -35,7 +35,7 @@ fake_news_detector/
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fake-news-detector.git
+git clone https://github.com/AishikDas500/fake-news-detector.git
 cd fake-news-detector
 pip install -r requirements.txt
 ```
@@ -89,7 +89,6 @@ Two good ones:
 - [ ] Plug in the LIAR dataset instead of synthetic data
 - [ ] Simple Streamlit web interface
 - [ ] Try sentence-transformers for richer text embeddings
-- [ ] Add cross-validation to the evaluation
 
 ## Requirements
 
