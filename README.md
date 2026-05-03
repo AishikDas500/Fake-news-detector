@@ -84,7 +84,7 @@ Two good ones:
 ![Confusion Matrix](results/confusion_matrix.png)
 ![Top Features](results/top_features.png)
 
-## What I want to add next
+## What I want to in the future
 
 - [ ] Plug in the LIAR dataset instead of synthetic data
 - [ ] Simple Streamlit web interface
