@@ -86,9 +86,9 @@ Two good ones:
 
 ## What I want to in the future
 
-- [ ] Plug in the LIAR dataset instead of synthetic data
-- [ ] Simple Streamlit web interface
-- [ ] Try sentence-transformers for richer text embeddings
+-  Plug in the LIAR dataset instead of synthetic data
+- Simple Streamlit web interface
+- Try sentence-transformers for richer text embeddings
 
 ## Requirements
 
